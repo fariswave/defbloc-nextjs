@@ -1,0 +1,14 @@
+# WordPress
+wordpress/wp-content/uploads/
+wordpress/.env
+wordpress/wp-config.php
+
+# Next.js
+nextjs/node_modules/
+nextjs/.next/
+nextjs/.env*
+nextjs/out/
+
+# Umum
+.DS_Store
+*.log
